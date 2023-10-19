@@ -1,1 +1,1 @@
-
+21,000 cumulated Amazon reviews on products hailing from varying categories. Evenly split dataset with 10,500 reviews comprising of authentic, human reviews and 10,500 comprising of artificially generated or manipulative reviews found on the platform.
